@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE11CF4E2614BB9200619BD8 /* 2441.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE11CF4C2614BB9200619BD8 /* 2441.swift */; };
+		CE11CF4F2614BB9200619BD8 /* 2440.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE11CF4D2614BB9200619BD8 /* 2440.swift */; };
 		CE9DD1AF2612072000D28009 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9DD1AE2612072000D28009 /* main.swift */; };
 		CE9DD1C02612088C00D28009 /* 9498.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9DD1B62612088A00D28009 /* 9498.swift */; };
 		CE9DD1C12612088D00D28009 /* 2438.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9DD1B72612088A00D28009 /* 2438.swift */; };
@@ -34,6 +36,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CE11CF4C2614BB9200619BD8 /* 2441.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 2441.swift; path = "../../../Algo-Study/YoungSang/YoungSang/2441.swift"; sourceTree = "<group>"; };
+		CE11CF4D2614BB9200619BD8 /* 2440.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 2440.swift; path = "../../../Algo-Study/YoungSang/YoungSang/2440.swift"; sourceTree = "<group>"; };
 		CE9DD1AB2612072000D28009 /* BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE9DD1AE2612072000D28009 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CE9DD1B62612088A00D28009 /* 9498.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 9498.swift; sourceTree = "<group>"; };
@@ -79,6 +83,8 @@
 		CE9DD1AD2612072000D28009 /* BOJ */ = {
 			isa = PBXGroup;
 			children = (
+				CE11CF4D2614BB9200619BD8 /* 2440.swift */,
+				CE11CF4C2614BB9200619BD8 /* 2441.swift */,
 				CE9DD1CB2612089000D28009 /* 2752.swift */,
 				CE9DD1B82612088B00D28009 /* 1000.swift */,
 				CE9DD1B72612088A00D28009 /* 2438.swift */,
@@ -155,6 +161,7 @@
 				CE9DD1C62612088D00D28009 /* 2557.swift in Sources */,
 				CE9DD1CC2612089100D28009 /* 2752.swift in Sources */,
 				CE9DD1C82612088D00D28009 /* 2480.swift in Sources */,
+				CE11CF4F2614BB9200619BD8 /* 2440.swift in Sources */,
 				CE9DD1C72612088D00D28009 /* 2753.swift in Sources */,
 				CE9DD1C12612088D00D28009 /* 2438.swift in Sources */,
 				CE9DD1AF2612072000D28009 /* main.swift in Sources */,
@@ -164,6 +171,7 @@
 				CE9DD1C42612088D00D28009 /* 10171.swift in Sources */,
 				CE9DD1C02612088C00D28009 /* 9498.swift in Sources */,
 				CE9DD1C92612088D00D28009 /* 10871.swift in Sources */,
+				CE11CF4E2614BB9200619BD8 /* 2441.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
